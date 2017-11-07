@@ -4073,18 +4073,11 @@ progress,sub,sup{vertical-align:baseline}button,hr,input,select{overflow:visible
 }
 
 
-
 html {
   font-size: 62.5%;
 }
 
 
-
 body {
   padding-top: 0!important;
-}
-
-
-.gridlove-post {
-  z-index: 9001;
 }
