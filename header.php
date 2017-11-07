@@ -88,8 +88,8 @@
 		         </li>
 		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="https://www.dnfinder.com/sold">Just Sold</a></li>
 		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="https://www.dnfinder.com/how-it-works">How It Works</a></li>
-		         <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-71"><a href="https://www.dnfinder.com/blog/">Blog</a></li>
-		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="/resources/">Resources</a></li>
+		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-71"><a href="https://www.dnfinder.com/blog/">Blog</a></li>
+		         <li class="menu-item menu-item-type-custom menu-item-object-custom current_page_item current-menu-item menu-item-73"><a href="/resources/">Resources</a></li>
 		      </ul>
 
 

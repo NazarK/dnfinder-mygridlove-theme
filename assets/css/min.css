@@ -4082,6 +4082,10 @@ body {
   padding-top: 0!important;
 }
 
+.typology-sidebar .current-menu-item > a {
+  color: #009fef;
+}
+
 
 @media (max-width: 960px) {
   .typology-sidebar {
