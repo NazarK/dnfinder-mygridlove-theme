@@ -3262,7 +3262,7 @@ progress,sub,sup{vertical-align:baseline}button,hr,input,select{overflow:visible
   .typology {
     /* Responsive Typography */
   }
-  .typology #menu-top-menu {
+  .typology .typology-header #menu-top-menu {
     display: none;
   }
   .typology .typology-header .typology-mobile-visible {
@@ -4080,4 +4080,30 @@ html {
 
 body {
   padding-top: 0!important;
+}
+
+
+@media (max-width: 960px) {
+  .typology-sidebar {
+    display: block;
+  }
+
+  .typology-sidebar-overlay {
+    display: block;
+  }
+
+  .typology .typology-header .typology-mobile-visible {
+      display: block;
+      padding-top: 18px;
+    }
+
+   .typology-header .typology-main-navigation {
+      display: none!important;
+    }
+
+  .typology .typology-cover-empty, .typology .typology-header {
+      max-height: 75px;
+      min-height: 75px !important;
+      height: 75px !important;
+    }
 }

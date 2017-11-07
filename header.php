@@ -38,7 +38,22 @@
 		        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-73"><a href="/resources/">Resources</a></li>
 		      </ul>
 		    </div>
-		    <div class="slot-r">
+		    <div class="slot-r" style="margin-right:15px">
+					<ul class="typology-nav typology-main-navigation" id="menu-top-menu" style="opacity: 1;">
+
+						<li class="menu-item menu-item-object-custom menu-item-type-custom">
+							<a href="https://www.dnfinder.com/users/sign_in">Sign in</a>
+						</li>
+
+						<li class="menu-item menu-item-type-custom menu-item-object-custom">
+							<a href="https://www.dnfinder.com/users/sign_up">Sign Up</a>
+						</li>
+
+						<li class="menu-item menu-item-type-custom menu-item-object-custom sell_domains">
+							<a class="border-white" href="https://www.dnfinder.com/listings/sell" style="background: #2c9;">Sell Domains</a>
+						</li>
+					</ul>
+
 		      <ul class="typology-nav typology-mobile-visible">
 		        <li class="typology-action-button">
 		          <span class="typology-action-sidebar">
@@ -76,6 +91,20 @@
 		         <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-71"><a href="https://www.dnfinder.com/blog/">Blog</a></li>
 		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="/resources/">Resources</a></li>
 		      </ul>
+
+
+					<ul class="typology-nav typology-main-navigation" id="menu-top-menu" style="opacity: 1;margin-top:100px">
+						<li class="menu-item menu-item-type-custom menu-item-object-custom">
+							<a href="https://www.dnfinder.com/users/sign_in">Sign in</a>
+						</li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom">
+							<a href="https://www.dnfinder.com/users/sign_up">Sign Up</a>
+						</li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom sell_domains">
+							<a class="border-white" href="https://www.dnfinder.com/listings/sell">Sell Domains</a>
+						</li>
+					</ul>
+
 		   </div>
 		</div>
 
