@@ -4087,7 +4087,25 @@ body {
 }
 
 
+.typology .typology-header h1.resources-header {
+  margin-top: 100px;
+  font-size:28px!important;
+  color:white;
+  letter-spacing:2px;
+}
+
+.typology-header-wrap {
+  height: 150px;
+}
+
 @media (max-width: 960px) {
+  .resources-header {
+    margin-top:22px!important;
+  }
+  .typology-header-wrap {
+    height: 110px;
+  }
+
   .typology-sidebar {
     display: block;
   }
@@ -4110,4 +4128,11 @@ body {
       min-height: 75px !important;
       height: 75px !important;
     }
+}
+
+
+@media (max-width: 620px) {
+  .typology .typology-header h1.resources-header  {
+    opacity: 0;
+  }
 }

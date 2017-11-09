@@ -16,9 +16,10 @@
 
 	<link rel='stylesheet' id='typology-fonts-css'  href='https://fonts.googleapis.com/css?family=Domine%3A400%7CJosefin+Sans%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=1.2' type='text/css' media='all' />
 
-	<div class="typology" style="height:110px">
+	<div class="typology typology-header-wrap">
 		<header id="typology-header" class="typology-header" style="position:absolute;">
 		  <div class="container">
+
 		    <div class="slot-l">
 		      <div class="typology-site-branding">
 		        <h1 class="site-title h4"><a href="https://www.dnfinder.com/" rel="home"><img class="typology-logo" src="https://www.dnfinder.com/blog/wp-content/themes/typology/assets/img/typology_logo.png" alt="DNFinder"></a></h1>
@@ -38,6 +39,7 @@
 		        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-73"><a href="/resources/">Resources</a></li>
 		      </ul>
 		    </div>
+
 		    <div class="slot-r" style="margin-right:15px">
 					<ul class="typology-nav typology-main-navigation" id="menu-top-menu" style="opacity: 1;">
 
@@ -62,6 +64,12 @@
 		        </li>
 		      </ul>
 		    </div>
+
+				<div class="container">
+					<h1 class="resources-header">Resources</h1>
+				</div>
+
+
 		  </div>
 		</header>
 		<div id="typology-cover" class="typology-cover typology-cover-empty" style="background-color: rgb(14,162,239)">
