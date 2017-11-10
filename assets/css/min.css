@@ -4095,7 +4095,7 @@ body {
 }
 
 .typology-header-wrap {
-  height: 150px;
+  height: 140px;
 }
 
 @media (max-width: 960px) {
@@ -4135,4 +4135,10 @@ body {
   .typology .typology-header h1.resources-header  {
     opacity: 0;
   }
+}
+
+
+.gridlove-site-content {
+  position: relative;
+  z-index: 9010;
 }
