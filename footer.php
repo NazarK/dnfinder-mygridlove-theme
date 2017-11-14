@@ -3,12 +3,11 @@
 <?php get_template_part('template-parts/ads/above-footer'); ?>
 
 <div id="footer" class="gridlove-footer">
-
 	<?php if( gridlove_get_option('footer_widgets') ): ?>
 
 	        <div class="container">
 	            <div class="row">
-	                <?php 
+	                <?php
 						$layout = explode( "_", gridlove_get_option('footer_layout') );
 						$columns = $layout[0];
 						$col_lg = $layout[1];
@@ -33,7 +32,8 @@
     <?php if( gridlove_get_option('footer_bottom') ): ?>
 
 	        <div class="gridlove-copyright">
-	            <div class="container">
+	            <div class="container-fluid">
+									<iframe src="https://www.dnfinder.com/footer_iframe" frameborder="0" scrolling="no" style="width:100%;height:643px;overflow:hidden;"></iframe>
 	                <?php echo wp_kses_post( gridlove_get_option('footer_copyright') ); ?>
 	            </div>
 	        </div>
