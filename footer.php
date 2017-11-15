@@ -33,7 +33,7 @@
 
 	        <div class="gridlove-copyright">
 	            <div class="container-fluid">
-									<iframe src="https://www.dnfinder.com/footer_iframe" frameborder="0" scrolling="no" style="width:100%;height:643px;overflow:hidden;"></iframe>
+									<iframe src="https://www.dnfinder.com/footer_iframe" id="footer_iframe" frameborder="0" scrolling="no" style="width:100%;height:643px;overflow:hidden;"></iframe>
 	                <?php echo wp_kses_post( gridlove_get_option('footer_copyright') ); ?>
 	            </div>
 	        </div>
