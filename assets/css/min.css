@@ -1546,7 +1546,7 @@ progress,sub,sup{vertical-align:baseline}button,hr,input,select{overflow:visible
   width: 100%;
   top: 0;
   left: 0;
-  z-index: 9001;
+  z-index: 9050;
 }
 .typology .typology-header .container, .typology .typology-header .col-lg-12 {
   height: 100%;
