@@ -31,9 +31,9 @@
 		            <li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="https://www.dnfinder.com/search">All Domains</a></li>
 		            <li id="menu-item-76" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="https://www.dnfinder.com/search?q%5Bs%5D=bids_count+desc">Most Active</a></li>
 		            <li id="menu-item-77" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77"><a href="https://www.dnfinder.com/search?q%5Bs%5D=auction_end+asc">Ending Soon</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14" id="menu-item-14"><a href="https://www.dnfinder.com/search?q%5Bbidding_eq%5D=true">Auctions</a></li>
 		          </ul>
 		        </li>
-		        <li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="https://www.dnfinder.com/sold">Just Sold</a></li>
 		        <li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="https://www.dnfinder.com/how-it-works">How It Works</a></li>
 		        <li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-71"><a href="https://www.dnfinder.com/blog/">Blog</a></li>
 		        <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-73"><a href="/resources/">Resources</a></li>
@@ -92,9 +92,9 @@
 		               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="https://www.dnfinder.com/search">All Domains</a></li>
 		               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="https://www.dnfinder.com/search?q%5Bs%5D=bids_count+desc">Most Active</a></li>
 		               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77"><a href="https://www.dnfinder.com/search?q%5Bs%5D=auction_end+asc">Ending Soon</a></li>
+									 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14" id="menu-item-14"><a href="https://www.dnfinder.com/search?q%5Bbidding_eq%5D=true">Auctions</a></li>
 		            </ul>
 		         </li>
-		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="https://www.dnfinder.com/sold">Just Sold</a></li>
 		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="https://www.dnfinder.com/how-it-works">How It Works</a></li>
 		         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-71"><a href="https://www.dnfinder.com/blog/">Blog</a></li>
 		         <li class="menu-item menu-item-type-custom menu-item-object-custom current_page_item current-menu-item menu-item-73"><a href="/resources/">Resources</a></li>
