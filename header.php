@@ -23,7 +23,9 @@
 
 		    <div class="slot-l">
 		      <div class="typology-site-branding">
-		        <h1 class="site-title h4"><a href="https://www.dnfinder.com/" rel="home"><img class="typology-logo" src="https://www.dnfinder.com/blog/wp-content/themes/typology/assets/img/typology_logo.png" alt="DNFinder"></a></h1>
+		        <h1 class="site-title h4">
+							<a href="https://www.dnfinder.com/" rel="home"><img alt="DNFinder" class="typology-logo" src="https://www.dnfinder.com/img/brand/logo.svg" style="height:38px;margin-top:-11px;"></a>
+						</h1>
 		      </div>
 		      <ul id="menu-top-menu" class="typology-nav typology-main-navigation" style="opacity: 1;">
 		        <li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-68">
